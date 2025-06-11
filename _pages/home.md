@@ -1,43 +1,34 @@
 ---
-layout: splash
+layout: single
 title: "Welcome to My Cybersecurity Portfolio"
 permalink: /
-header:
-  overlay_image: /assets/kofi-linkedin-banner.png
-  overlay_filter: "0.3"
-  caption: "Securing Systems. Detecting Threats. Driving Impact."
-  cta_label: "📄 View My Resume"
-  cta_url: "/resume/"
-excerpt: "Cybersecurity Engineer | AWS Certified | CCNA | Cloud & Network Security Enthusiast"
-intro:
-  - excerpt: 'I’m **Kofi Kitiabi**, a Security Engineer focused on threat detection, incident response, and cloud security. Welcome to my portfolio — a showcase of the projects, skills, and simulations that define my career journey so far.'
+author_profile: true
 ---
-![Kofi Kitiabi Portrait](/assets/DSC_0601.jpg){: .align-center .circle .width-25 .shadow }
+
+I’m **Kofi Kitiabi**, a Security Engineer focused on threat detection, incident response, and cloud security.
+
+Welcome to my portfolio — a showcase of the projects, skills, and simulations that define my career journey so far.
+
+---
+
+![Kofi Kitiabi Portrait](/assets/DSC_0601.jpg){: .align-center style="border-radius: 50%; max-width: 180px; box-shadow: 0 2px 5px rgba(0,0,0,0.25);" }
 
 > *"Empowering organizations through secure architecture and proactive defense."*
 
 ---
-{% include feature_row 
-  id="home-feature" 
-  type="icon" 
-  icons=true
-  data="
-    [
-      {
-        'icon': 'fas fa-shield-alt',
-        'title': 'Threat Detection',
-        'excerpt': 'Hands-on experience with SIEM (Splunk), reconnaissance, and malware analysis.'
-      },
-      {
-        'icon': 'fas fa-cloud',
-        'title': 'Cloud Security',
-        'excerpt': 'AWS security configurations, IAM, network hardening, and compliance.'
-      },
-      {
-        'icon': 'fas fa-bug',
-        'title': 'Incident Response',
+
+## 🔐 Core Strengths
+
+### <i class="fas fa-shield-alt"></i> Threat Detection
+SIEM tools (Splunk), malware analysis, and intrusion detection
+
+### <i class="fas fa-cloud"></i> Cloud Security
+AWS security hardening, IAM policies, and compliance
+
+### <i class="fas fa-bug"></i> Incident Response
+Containment, forensics, and post-mortem analysis
+
 ---
-        'excerpt': 'Containment, forensics, and post-breach analysis.'
-      }
-    ]" 
-%}
+
+📄 [View My Resume](/resume/){: .btn .btn--primary }  
+📬 [Contact Me](/contact/){: .btn }
