@@ -11,11 +11,11 @@ header:
 excerpt: "Cybersecurity Engineer | AWS Certified | CCNA | Cloud & Network Security Enthusiast"
 intro:
   - excerpt: 'I’m **Kofi Kitiabi**, a Security Engineer focused on threat detection, incident response, and cloud security. Welcome to my portfolio — a showcase of the projects, skills, and simulations that define my career journey so far.'
----
 
-![Kofi Kitiabi Portrait](/assets/DSC_0601.jpg){: .align-center .circle .width-40 }
+![Kofi Kitiabi Portrait](/assets/DSC_0601.jpg){: .align-center .circle .width-25 .shadow }
 
 > *"Empowering organizations through secure architecture and proactive defense."*
+
 
 feature_row:
   - icon: fas fa-shield-alt
