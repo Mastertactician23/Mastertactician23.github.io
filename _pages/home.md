@@ -17,16 +17,26 @@ intro:
 > *"Empowering organizations through secure architecture and proactive defense."*
 
 ---
-feature_row:
-  - icon: fas fa-shield-alt
-    title: "Threat Detection"
-    excerpt: "Hands-on experience with SIEM (Splunk), reconnaissance, and malware analysis."
-  - icon: fas fa-cloud
-    title: "Cloud Security"
-    excerpt: "AWS security configurations, IAM, network hardening, and compliance."
-  - icon: fas fa-bug
-    title: "Incident Response"
-    excerpt: "Containment, forensics, and post-breach analysis."
----
-
-{% include feature_row %}
+{% include feature_row 
+  id="home-feature" 
+  type="icon" 
+  icons=true
+  data="
+    [
+      {
+        'icon': 'fas fa-shield-alt',
+        'title': 'Threat Detection',
+        'excerpt': 'Hands-on experience with SIEM (Splunk), reconnaissance, and malware analysis.'
+      },
+      {
+        'icon': 'fas fa-cloud',
+        'title': 'Cloud Security',
+        'excerpt': 'AWS security configurations, IAM, network hardening, and compliance.'
+      },
+      {
+        'icon': 'fas fa-bug',
+        'title': 'Incident Response',
+        'excerpt': 'Containment, forensics, and post-breach analysis.'
+      }
+    ]" 
+%}
