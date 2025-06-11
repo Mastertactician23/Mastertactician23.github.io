@@ -36,6 +36,7 @@ intro:
       {
         'icon': 'fas fa-bug',
         'title': 'Incident Response',
+---
         'excerpt': 'Containment, forensics, and post-breach analysis.'
       }
     ]" 
