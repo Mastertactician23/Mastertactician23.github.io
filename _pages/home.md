@@ -11,7 +11,7 @@ Welcome to my portfolio — a showcase of the projects, skills, and simulations 
 
 ---
 
-![Kofi Kitiabi Portrait](/assets/DSC_0601.jpg){: .align-center style="border-radius: 50%; max-width: 180px; box-shadow: 0 2px 5px rgba(0,0,0,0.25);" }
+<img src="/assets/DSC_0601.jpg" alt="Kofi Kitiabi" style="display: block; margin: 0 auto; border-radius: 50%; width: 180px; box-shadow: 0 2px 5px rgba(0,0,0,0.25);" />
 
 > *"Empowering organizations through secure architecture and proactive defense."*
 
