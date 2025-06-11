@@ -16,7 +16,7 @@ intro:
 
 > *"Empowering organizations through secure architecture and proactive defense."*
 
-
+---
 feature_row:
   - icon: fas fa-shield-alt
     title: "Threat Detection"
