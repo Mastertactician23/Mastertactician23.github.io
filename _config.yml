@@ -101,7 +101,8 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : "Person"
   name                   : "Asibey-Kitiabi Kofi Emmanuel"
-  links: - "https://www.linkedin.com/in/kofi-kitlabi"
+  links: 
+        - "https://www.linkedin.com/in/kofi-kitlabi"
         - "https://github.com/Mastertactician23"
 
 # Analytics
