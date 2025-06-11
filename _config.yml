@@ -23,6 +23,12 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Asibey-Kitiabi Kofi Emmanuel"
 description              : "Cybersecurity Specialist"
 url                      : "https://Mastertactician23.github.io"
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+    source: docs/_pages
+
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Mastertactician23/Mastertactician23.github.io"
 teaser                   : "/assets/KOFIS LINKEDIN BANNER.png"
