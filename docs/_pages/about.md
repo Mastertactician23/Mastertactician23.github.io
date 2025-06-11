@@ -1,5 +1,7 @@
 ---
 permalink: /about/
+layout: single
+author_profile: true
 title: "About Kofi Kitiabi"
 excerpt: "Security Engineer specializing in threat detection, cloud security, and risk assessment."
 header:
