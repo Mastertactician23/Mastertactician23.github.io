@@ -5,26 +5,14 @@ author_profile: true
 title: "About Kofi Kitiabi"
 excerpt: "Security Engineer specializing in threat detection, cloud security, and risk assessment."
 header:
-  overlay_image: /assets/KOFIS LINKEDIN BANNER # Add a cybersecurity-themed header
-  overlay_filter: rgba(0, 0, 0, 0.7)
+  overlay_image: /assets/kofi-linkedin-banner.png
+  overlay_filter: "0.4"
+  caption: "Security Engineer | Cloud Security | Threat Detection"
   actions:
-    - label: "Download CV"
+    - label: "📄 Download CV"
       url: "/assets/KITIABI KOFI's Resume.pdf"
-    - label: "Contact Me"
+    - label: "📬 Contact Me"
       url: "/contact/"
-feature_row:
-  - image_path: /assets/images/threat-detection-icon.png
-    alt: "Threat Detection"
-    title: "Threat Detection"
-    excerpt: "SIEM tools (Splunk), malware analysis, and intrusion detection"
-  - image_path: /assets/images/cloud-security-icon.png
-    alt: "Cloud Security"
-    title: "Cloud Security"
-    excerpt: "AWS security hardening, IAM policies, and compliance"
-  - image_path: /assets/images/incident-response-icon.png
-    alt: "Incident Response"
-    title: "Incident Response"
-    excerpt: "Containment, forensics, and post-mortem analysis"
 ---
 
 ![Kofi Kitiabi](/assets/DSC_0601.jpg){: .align-right .rounded .width-half}
@@ -34,7 +22,7 @@ feature_row:
 
 > "Cybersecurity professional with hands-on experience in threat detection, SIEM tools (Splunk), and AWS cloud security. Passionate about creating secure systems and educating teams on cybersecurity best practices."
 
-## Core Expertise
+## 🧠 Core Technical Skills
 
 - 🔍 **Threat Detection**: SIEM (Splunk Cloud), malware analysis, and vulnerability scanning  
 - ☁️ **Cloud Security**: AWS security best practices, IAM policies, and network hardening  
@@ -43,7 +31,7 @@ feature_row:
 
 {% include feature_row %}
 
-## Professional Journey
+## 🧭 Career Highlights
 
 With a **BSc in Computer Science** and multiple certifications (AWS, CCNA, IBM Cybersecurity), I've developed security solutions for:
 
@@ -51,19 +39,10 @@ With a **BSc in Computer Science** and multiple certifications (AWS, CCNA, IBM C
 - **University of Nairobi**: Maintained 100+ devices with 99% uptime  
 - **PwC Cybersecurity Simulation**: Developed risk assessments adopted as client recommendations  
 
-[View Full Experience](/experience/){: .btn .btn--primary}
+[Jump to Certifications](#certifications){: .btn .btn--primary }
 
-## Recent Certifications
+## 🎓 Certifications {#certifications}
 
-<div class="cert-grid">
-  <div class="cert-item">
-    <img src="/assets/images/badges/aws-certified.png" alt="AWS Certified">
-    <p>AWS Cloud Practitioner<br>e-Mobilis Tech (2024)</p>
-  </div>
-  <div class="cert-item">
-    <img src="/assets/images/badges/ccna.png" alt="CCNA">
-    <p>Cisco Certified Network Associate<br>CISCO (2022)</p>
-  </div>
-</div>
-
-[See All Certifications](/certifications/){: .btn .btn--info}
+| ![AWS Certified](/assets/aws-certified-cloud-practicioner.png) | ![CCNA Certified](/assets/images/badges/ccna.png) |
+|:---------------------------------------------------------:|:------------------------------------------------:|
+| **AWS Cloud Practitioner**<br>*e-Mobilis Tech (2024)*     | **CCNA**<br>*CISCO (2022)*                       |
