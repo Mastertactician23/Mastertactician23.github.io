@@ -119,7 +119,6 @@ author:
   avatar           : "/assets/DSC_0601.jpg"
   bio              : "Security Engineer specializing in threat detection, cloud security, and risk assessment. Passionate about creating secure systems and educating teams on cybersecurity best practices."
   location         : "Nairobi, Kenya"
-  email            : "kofikitlabi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
