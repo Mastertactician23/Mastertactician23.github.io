@@ -28,7 +28,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
-    source: docs/_pages
+    
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Mastertactician23/Mastertactician23.github.io"
