@@ -8,5 +8,5 @@ main:
     url: /projects/
   - title: "Resume"
     url: /assets/KITIABI KOFI's Resume.pdf/
-   title: "Contacts"
-    url: /contacts/
+  - title: "Challenges"
+    url: /challenges/
