@@ -25,7 +25,7 @@ description              : "Cybersecurity Specialist"
 url                      : "https://Mastertactician23.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Mastertactician23/Mastertactician23.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/KOFIS LINKEDIN BANNER.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Asibey-Kitiabi Kofi Emmanuel"
 breadcrumbs              : # true, false (default)
