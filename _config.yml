@@ -27,11 +27,11 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Mastertactician23/Mastertactician23.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Kofi Kitiabi"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+copyright                : "© 2025 Kofi Kitiabi. All rights reserved."
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Asibey-Kitiabi Kofi Emmanuel"
+  avatar           : "/assets/DSC_0601.jpg"
+  bio              : "Security Engineer specializing in threat detection, cloud security, and risk assessment. Passionate about creating secure systems and educating teams on cybersecurity best practices."
+  location         : "Nairobi, Kenya"
+  email            : "kofikitlabi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
